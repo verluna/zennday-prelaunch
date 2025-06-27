@@ -2,7 +2,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // --- Configuration ---
     // IMPORTANT: Replace this placeholder with the actual URL from your Google Apps Script deployment.
-    const SCRIPT_URL = "YOUR_APPS_SCRIPT_DEPLOYMENT_URL_HERE";
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzP_-LQq3vvyebW0KFelg7jm1s7xuRY4NQRYjMLhaUI45nl7HFLViiLT7gsFl1E2tt2/exec
+";
 
     // --- Element Selections ---
     const form1 = document.getElementById('lead-form');
